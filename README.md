@@ -11,11 +11,11 @@ Place unzipped dataset in `data/raw/`.
 | Name                  | IT Number  | Task                          |
 |-----------------------|------------|-------------------------------|
 | Guruge A.U.H.P.       | IT25101564 | Missing Data Handling         |
-| D.S.S Samarawirama    | IT25103378 | Outlier Removal               |
+| D.N.S Samarawirama    | IT25103105 | Outlier Removal               |
 | D M L M Bandara       | IT25100310 | Normalization/Scaling         |
 | Perera K.I.I.         | IT25102387 | Encoding Categorical Variables|
-| Peter j               | IT25101187 | Feature Engineering           |
-| Slilva H A R          | IT25103378 | Dimensionality Reduction      |
+| Peter J.              | IT25101187 | Feature Engineering           |
+| Slilva H.A.R.         | IT25103378 | Dimensionality Reduction      |
 
 ## How to Run
 1. Open notebooks in Google Colab
