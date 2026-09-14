@@ -11,8 +11,8 @@ Place unzipped dataset in `data/raw/`.
 | Name           | IT Number  | Task                  |
 |----------------|------------|-----------------------|
 | Guruge A.U.H.P.| IT25101564 | Missing Data Handling |
-| Member 2 | ITxxxxx | Outlier Removal |
-| Member 3 | ITxxxxx | Normalization/Scaling |
+| Member 2 | ITxxxxx    | Outlier Removal |
+| D M L M Bandara| IT25100310 | Normalization/Scaling |
 | Perera K.I.I. | IT25102387 | Encoding Categorical Variables |
 | Member 5 | ITxxxxx | Feature Engineering |
 | Member 6 | ITxxxxx | Dimensionality Reduction |
