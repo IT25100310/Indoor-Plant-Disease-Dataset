@@ -14,7 +14,7 @@ Place unzipped dataset in `data/raw/`.
 | D.S.S Samarawirama    | IT25103378 | Outlier Removal               |
 | D M L M Bandara       | IT25100310 | Normalization/Scaling         |
 | Perera K.I.I.         | IT25102387 | Encoding Categorical Variables|
-| Member 5              | ITxxxxx    | Feature Engineering           |
+| Peter j               | IT25101187 | Feature Engineering           |
 | Slilva H A R          | IT25103378 | Dimensionality Reduction      |
 
 ## How to Run
