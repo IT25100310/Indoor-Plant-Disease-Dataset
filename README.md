@@ -8,14 +8,14 @@ Group project for IT2011 - AI & ML. Focus: preprocessing & EDA on plant leaf ima
 Place unzipped dataset in `data/raw/`.
 
 ## Group Members & Roles
-| Name           | IT Number  | Task                  |
-|----------------|------------|-----------------------|
-| Guruge A.U.H.P.| IT25101564 | Missing Data Handling |
-| Member 2 | ITxxxxx | Outlier Removal |
-| Member 3 | ITxxxxx | Normalization/Scaling |
-| Member 4 | ITxxxxx | Encoding Categorical Variables |
-| Member 5 | ITxxxxx | Feature Engineering |
-| Member 6 | ITxxxxx | Dimensionality Reduction |
+| Name                  | IT Number  | Task                          |
+|-----------------------|------------|-------------------------------|
+| Guruge A.U.H.P.       | IT25101564 | Missing Data Handling         |
+| D.S.S Samarawirama    | IT25103378 | Outlier Removal               |
+| D M L M Bandara       | IT25100310 | Normalization/Scaling         |
+| Perera K.I.I.         | IT25102387 | Encoding Categorical Variables|
+| Peter j               | IT25101187 | Feature Engineering           |
+| Slilva H A R          | IT25103378 | Dimensionality Reduction      |
 
 ## How to Run
 1. Open notebooks in Google Colab
